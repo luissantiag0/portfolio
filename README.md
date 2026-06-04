@@ -1,10 +1,5 @@
 # Luis Santiago — Portfolio Profesional
 
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](https://vitejs.dev)
-[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)](https://tailwindcss.com)
-
 Portfolio web moderno de **Luis Santiago**, Desarrollador Web Junior y estudiante de DAW. Diseñado con un enfoque premium, accesible y responsive, mostrando proyectos reales, habilidades técnicas y trayectoria profesional.
 
 ## 🚀 Tecnologías
